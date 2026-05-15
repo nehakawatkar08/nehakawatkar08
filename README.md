@@ -27,15 +27,15 @@ Software Developer | Python Developer | FastAPI & Django Developer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/neha-kawatkar-a53573244/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:nehakawathkar@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="38" width="38" />
 </a>
 
-<a href="https://github.com/YOURUSERNAME" target="blank">
+<a href="https://github.com/nehakawatkar08" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
 </a>
 </p>
